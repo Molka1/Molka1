@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Molka</h1>
 <h3 align="center">A passionate Fullstack web developper</h3>
 
-- 🔭 I’m currently working on [invitness (Mobile app)](http://www.invitness.com/)
+- 🔭 I’m currently working on [invitness (Mobile)](http://www.invitness.com/)
 
 - 🌱 I’m currently learning **React**
 
