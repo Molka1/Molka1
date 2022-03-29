@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Molka</h1>
-<h3 align="center">A passionate Fullstack web developper</h3>
+<h3 align="center">A passionate Fullstack web developer</h3>
 
 - 🔭 I’m currently working on [invitness (Mobile)](http://www.invitness.com/)
 
